@@ -1,0 +1,5 @@
+.venv/
+mlruns/
+model/
+__pycache__/
+*.py[cod]
